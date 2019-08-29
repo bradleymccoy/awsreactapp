@@ -1,0 +1,19 @@
+{
+    "reactenv": {
+        "awscloudformation": {
+            "AuthRoleName": "awsreactapp-reactenv-20190828133854-authRole",
+            "UnauthRoleArn": "arn:aws:iam::166824533326:role/awsreactapp-reactenv-20190828133854-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::166824533326:role/awsreactapp-reactenv-20190828133854-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "awsreactapp-reactenv-20190828133854-deployment",
+            "UnauthRoleName": "awsreactapp-reactenv-20190828133854-unauthRole",
+            "StackName": "awsreactapp-reactenv-20190828133854",
+            "StackId": "arn:aws:cloudformation:us-east-2:166824533326:stack/awsreactapp-reactenv-20190828133854/12c18970-c9c3-11e9-9564-063c30684966"
+        },
+        "categories": {
+            "auth": {
+                "awsreactapp4f84fa2d": {}
+            }
+        }
+    }
+}
