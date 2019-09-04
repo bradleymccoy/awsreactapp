@@ -35,5 +35,11 @@
 				}
 			]
 		}
+	},
+	"analytics": {
+		"awsreactapp": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
 	}
 }

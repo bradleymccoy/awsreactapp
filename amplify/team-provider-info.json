@@ -13,6 +13,9 @@
         "categories": {
             "auth": {
                 "awsreactapp4f84fa2d": {}
+            },
+            "function": {
+                "S3Trigger0869b151": {}
             }
         }
     }
