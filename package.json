@@ -2,10 +2,12 @@
   "name": "awsreactapp",
   "version": "0.1.0",
   "private": true,
+  "main": "lib/index.js",
   "dependencies": {
     "aws-amplify": "^1.1.36",
     "aws-amplify-react": "^2.3.12",
     "aws-appsync": "^1.8.1",
+    "classnames": "^2.2.6",
     "form-data": "^2.5.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -31,5 +33,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "babel": {
+    "presets": [
+      "react-app"
+    ]
+  },
+  "license": "MIT"
 }
