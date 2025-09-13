@@ -4,7 +4,7 @@
   "private": true,
   "main": "lib/index.js",
   "dependencies": {
-    "aws-amplify": "^1.1.36",
+    "aws-amplify": "^6.15.6",
     "aws-amplify-react": "^2.3.12",
     "aws-appsync": "^1.8.1",
     "classnames": "^2.2.6",
